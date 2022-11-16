@@ -1,0 +1,7 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "tsc -t es5 app.ts && node app.js"
+    }
+}
